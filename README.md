@@ -1,1 +1,1 @@
-Spotify clone using react,typescript and rapidapi
+Spotify clone using react,tailwindcss and rapidapi.
